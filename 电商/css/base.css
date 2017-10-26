@@ -1,0 +1,10 @@
+*{margin:0; padding:0;}
+.clearfix:after{ height:0; display:block; content:'.'; visibility:hidden; clear:both;}
+ul,li,p,h1,h2,h3,h4,h5,h6,form,label,aside,section,header,footer,dd,dt,dl,figure,figcaption,nav,article,hgroup,dialog{display:block;}
+ul{list-style:none;}
+img{border:0;width: 100%;}
+body{font-family: "Microsoft YaHei"; font-size:14px; overflow-x:hidden;}
+a{text-decoration:none; outline:none;}
+.ellisis{ white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+a:link{text-decoration:none; outline:none;}
+mark{background: #FFFFFF;}
